@@ -108,25 +108,6 @@ The `icons` folder contains all the icons used for both the starting frame and t
 
 These icons can be found on the same website used for our API (link will be in code comments).
 
-
-# Addendums: #
-
-### Aditya Arora: ###
-
-For this project, I worked with Muhammad, Justin and Isha to help setup the application (specifically, extracting the correct API data needed for this app), as well as handle most of the documentation needed (includes README.md file). I also contributed to the project by maintaining the Github repo to limit merge conflict issues, along with using the API data to display the 7-day weather on the main GUI. As for management, I helped organize weekly meetings with the group to make sure we are on top of our priorities via Zoom calls.  
-
-### Muhammad Hassan: ###
-
-For this project, I teamed up with Aditya, Justin and Isha to create a Weather App, which provides weather information for cities across Ontario. When it comes to individual contribution, I helped with setting up the API, and setting the layouts of AppUI and the welcome window. I also contributed by adding the persistence element (history.pkl). In general, I worked mostly with getting and extracting the API data, and making the the main GUI fuction correctly.
-
-### Justin Sousa: ###
-
-For this project, I changed the overall UI from different roots to all seperate frames. Along side with that I worked with Muhammed and Aditya in the overall UI of the application. In terms of UI, I completed the welcome screen, setting up the menus as there were some problems with that. Also general error checking, primarily in the search function, and passing data between the two frames. 
-
-### Isha Joshi: ###
-
-For this project, I created appropriate graph methods in graph.py which the user can see upon selection. I made the method to show the Temperature Overview for any valid city that is searched by the user and the method make a user-customizable graph. I also created an intensive dataframe which stores main weather data points into a pandas dataframe. This is mainly used for the graphing methods but can be called upon command in the code once a city is saved.
-
 # References: #
 
 All references that were used for this project can be found in the `.py` files of this repository (written with comments `#`). 
