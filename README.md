@@ -8,7 +8,6 @@ A Weather Application that displays the current weather and 7-day forecast of th
 * [Important](#important)
 * [Installation](#installation)
 * [Documentation](#documentation)
-* [Addendums](#addendums)
 * [References](#references)
 
 # Dependencies: #
